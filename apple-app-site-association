@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "8Q4RE677M2.ru.1forma.mobile",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "PE4356BW5G.ru.1forma.messenger",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
